@@ -3,7 +3,7 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 
 /**
- * MapView Component - Interactive Leaflet Map for Smart Bus Nepal
+ * MapView Component - Interactive Leaflet Map for Smart Bus Nepal`
  * Hackathon Project Component
  * 
  * Features:
